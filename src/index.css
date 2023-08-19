@@ -70,12 +70,12 @@ li, p {
 }
 
 li:hover {
-  background-color: #f7f7f7;
+  background-color: #a20fa7;
   transform: translateY(-2px);
 }
 
 p:hover {
-  background-color: #f7f7f7;
+  background-color: #a20fa7;
   transform: translateY(-2px);
 }
 
